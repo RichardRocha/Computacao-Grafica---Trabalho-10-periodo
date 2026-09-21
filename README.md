@@ -56,8 +56,8 @@ Garantir que o Python 3.9 (ou superior) está instalado no sistema.
 
 ### 1. Clonar o Repositório
 ```bash
-git clone [https://github.com/TEU_USUARIO/NOME_DO_REPOSITORIO.git](https://github.com/TEU_USUARIO/NOME_DO_REPOSITORIO.git)
-cd NOME_DO_REPOSITORIO
+git clone https://github.com/RichardRocha/Computacao-Grafica---Trabalho-10-periodo.git
+cd Computacao-Grafica---Trabalho-10-periodo
 
 ### 2. Instalar Dependências
 ```bash
