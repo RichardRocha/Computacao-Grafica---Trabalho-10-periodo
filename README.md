@@ -42,7 +42,7 @@ Se $A P_x + B P_y + C P_z + D < 0$, o objeto encontra-se fora do campo de visão
 
 ## 🛠️ Tecnologias Utilizadas
 
-- **Linguagem:** Python 3.9+
+- **Linguagem:** Abaixo de Python 3.12.
 - **API Gráfica:** OpenGL 3.3 Core via [ModernGL](https://moderngl.readthedocs.io/)
 - **Contexto & Janela:** [GLFW](https://www.glfw.org/)
 - **Cálculo Vetorial e Matricial:** [NumPy](https://numpy.org/) e [Pyrr](https://pyrr.readthedocs.io/)
@@ -52,7 +52,7 @@ Se $A P_x + B P_y + C P_z + D < 0$, o objeto encontra-se fora do campo de visão
 ## 🚀 Instalação e Execução
 
 ### Pré-requisitos
-Garantir que o Python 3.9 (ou superior) está instalado no sistema.
+Garantir que o Python 3.11 está instalado no sistema.
 
 ### 1. Clonar o Repositório
 ```bash
