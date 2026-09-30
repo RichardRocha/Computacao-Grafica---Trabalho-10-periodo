@@ -138,7 +138,6 @@ def is_aabb_in_frustum(aabb_min, aabb_max, planes):
             return False
     return True
 
-# --- CONTROLO DA CÂMARA ---
 cam_pos = Vector3([0.0, 5.0, 35.0], dtype='f4')
 cam_yaw = -90.0
 cam_pitch = -10.0
