@@ -1,7 +1,7 @@
 # 🛰️ Simulação Orbital 3D — View Frustum Culling com ModernGL
 
 > **Projeto Acadêmico / Demonstração Técnica (IEEE Style)**  
-> Implementação em tempo real do algoritmo de *View Frustum Culling* aplicado a uma megastrutura orbital de alta densidade geométrica, desenvolvido em Python 3.9+ e OpenGL 3.3 Core via ModernGL.
+> Implementação em tempo real do algoritmo de *View Frustum Culling* aplicado a uma megastrutura orbital de alta densidade geométrica, desenvolvido em Python 3.11 e OpenGL 3.3 Core via ModernGL.
 
 ---
 
