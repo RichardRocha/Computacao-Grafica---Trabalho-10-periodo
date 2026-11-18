@@ -58,7 +58,7 @@ Computacao-Grafica---Trabalho-10-periodo/
 * **Linguagem:** Python 3.11 ou 3.12 (compatibilidade nativa com extensões compiladas do ModernGL)
 * **API Gráfica & Janela:** `ModernGL` (OpenGL 3.3 Core Profile) e `GLFW`
 * **Cálculo Vetorial & Telemetria:** `NumPy`, `Pyrr`, `psutil` e `Matplotlib`
-* **Ambiente de Avaliação:** AMD Ryzen 5 5500, NVIDIA GeForce RTX 4060 (8 GB GDDR6), 16 GB RAM DDR4, resolução $1280 \times 720$.
+* **Ambiente de Avaliação:** AMD Ryzen 5 5500, NVIDIA GeForce RTX 4060 (8 GB GDDR6), 24 GB RAM DDR4, resolução $1280 \times 720$.
 
 ---
 
