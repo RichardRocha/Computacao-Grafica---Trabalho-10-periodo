@@ -47,8 +47,6 @@ Computacao-Grafica---Trabalho-10-periodo/
 ├── docs/
 │   ├── screenshots/             # Capturas de tela do framebuffer OpenGL (PNG)
 │   └── charts/                  # Gráficos comparativos de FPS, Frame Time e Descarte
-├── article/
-│   └── main.tex                 # Artigo científico completo no padrão IEEE Conference
 ├── requirements.txt             # Dependências do ambiente Python
 └── README.md                    # Documentação técnica do projeto
 ```
